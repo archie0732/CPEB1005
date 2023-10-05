@@ -19,9 +19,9 @@ cba ==>yes
 總共`只有3!`種樣式 
 
 分別為:<br>
-   *  `abc` `acb` <br>
-   *  `bac` `bca`<br>
-   *  `cab` `cba`<br>
+* `abc` `acb` <br>
+* `bac` `bca`<br>
+* `cab` `cba`<br>
 
 
 * 所以將所有的樣本進行分析，得:<br>
