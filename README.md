@@ -29,40 +29,51 @@
 <br>
 
 
-[完整code請點此](https://github.com/archue001/CPEB1005/blob/C---Aleksa-and-Stack/cpeC.cpp)   <br>
+[完整code請點此](https://github.com/archue001/CPEB1005/blob/C---Aleksa-and-Stack/cpeD.cpp)   <br>
 
-![](https://github.com/archue001/CPEB1005/blob/%E5%9C%96%E7%89%87/386320732_310791081710296_4375879779438103400_n.jpg)
-
+![](https://github.com/archue001/CPEB1005/blob/%E5%9C%96%E7%89%87/JKaIC8A.jpg)
 
 <br>
 
 ```  cpp
-    #include<iostream>
+  #include<iostream>
 
 
-    using namespace std ;
+using namespace std;
 
 
-    int main ()  {
+int main () {
 
-    int t=0,n=0;
-    int k=1;
+int n=0,p=1,tem=0,ans=0,t=0;
+int b[50000]={};
 
+cin>>t;
+while (t--)
+{
 
-    cin>>t;
-    while (t--)
-    {
-        cin>>n;
-        for(int i=0;i<n;i++){
-            cout<<k<<" ";
-            k=k+2;
-        }
-        
+cin>> n;
+for(int i=0;i<n;i++){
+    cin>>b[i];
+}
+
+for(int i=0;i<n;i++){
+    tem=b[i];
+    b[i]=b[i]+1;
+    for(int j=0;j<n;j++){
+        p=p*b[j];
+   
     }
-    cout<< endl;
-    return 0;
-
-
-
+    if(ans<p){
+        ans=p;
     }
+    p=1;
+    b[i]=tem;
+}
+cout<<ans<<endl;
+ans=0;
+}
+
+return 0;
+
+}
 ```
