@@ -52,3 +52,7 @@ else {// other
 }
     return 0;
 }// 請不要直接copy sumbit 謝謝 UWU 
+
+
+
+
