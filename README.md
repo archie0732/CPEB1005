@@ -21,4 +21,4 @@ if (string) a== "acb" ==>Yes<br>
 else (string) a=="cab"==>No<br>
 
 
-[完整code請我]https://github.com/archue001/CPEB1005/blob/main/B%20-%20Short%20Sort.cpp
+[完整code請點此](https://github.com/archue001/CPEB1005/blob/main/B%20-%20Short%20Sort.cpp)
