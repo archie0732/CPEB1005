@@ -1,4 +1,4 @@
-# Aleksa and Stack
+# C-Aleksa and Stack
 
 ## 題目
 [題目連結點此]([https://vjudge.net/contest/585165#problem/B](https://vjudge.net/contest/585165#problem/C))
@@ -21,7 +21,7 @@ ex: <br>
 
 
 
-[完整code請點此](https://github.com/archue001/CPEB1005/blob/main/B%20-%20Short%20Sort.cpp) <br>
+[完整code請點此](https://github.com/archue001/CPEB1005/blob/C---Aleksa-and-Stack/cpeC.cpp)   <br>
 
 
 
