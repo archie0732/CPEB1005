@@ -10,11 +10,16 @@
 
 ### 第C題:
 
+* [點我進入](https://github.com/archue001/CPEB1005/blob/B--Short-Sort/README.md)
 
 ### 第D題:
 
+* [點我進入](https://github.com/archue001/CPEB1005/blob/B--Short-Sort/README.md)
 
 ### 第E題:
 
+* [點我進入](https://github.com/archue001/CPEB1005/blob/B--Short-Sort/README.md)
 
 ### 第F題:
+
+* [點我進入](https://github.com/archue001/CPEB1005/blob/B--Short-Sort/README.md)
