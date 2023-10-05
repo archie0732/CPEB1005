@@ -3,7 +3,7 @@
 
 因為只有三種(a、b、c) 在排列
 
-總共只有3!種樣式 
+總共`只有3!`種樣式 
 
 分別為:<br>
 abc acb <br>
@@ -21,4 +21,4 @@ if (string) a== "acb" ==>Yes<br>
 else (string) a=="cab"==>No<br>
 
 
-完整請見B - Short Sort.cpp
+[完整code請我]https://github.com/archue001/CPEB1005/blob/main/B%20-%20Short%20Sort.cpp
