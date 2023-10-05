@@ -23,7 +23,7 @@ ex: <br>
 
 [完整code請點此](https://github.com/archue001/CPEB1005/blob/C---Aleksa-and-Stack/cpeC.cpp)   <br>
 
-[ ](https://github.com/archue001/CPEB1005/blob/%E5%9C%96%E7%89%87/386320732_310791081710296_4375879779438103400_n.jpg)
+![](https://github.com/archue001/CPEB1005/blob/%E5%9C%96%E7%89%87/386320732_310791081710296_4375879779438103400_n.jpg)
 
 
 <br>
