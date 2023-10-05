@@ -24,11 +24,11 @@ cba ==>yes
 *   `cab` `cba`<br>
 
 
-* 所以將所有的樣本進行分析，得:<br>
+  所以將所有的樣本進行分析，得:<br>
 abc acb bac cba `能符合`<br>
 bac cab `不行`<br>
 
-* 故直接用字串分析是否符合:<br>
+故直接用字串分析是否符合:<br>
 EX:<br>
 if (string) a== "acb" ==>Yes<br>
 else (string) a=="cab"==>No<br>
