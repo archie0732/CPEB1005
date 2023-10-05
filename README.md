@@ -30,8 +30,8 @@ bac cab `不行`<br>
 
 故直接用字串分析是否符合:<br>
 EX:<br>
-if (string) a== "acb"         ==>Yes<br>
-else (string) a=="cab"        ==>No<br>
+if (string) a== "acb"           ==>Yes<br>
+else (string) a=="cab"          ==>No<br>
 
 
 [完整code請點此](https://github.com/archue001/CPEB1005/blob/main/B%20-%20Short%20Sort.cpp)
