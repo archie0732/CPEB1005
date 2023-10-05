@@ -1,93 +1,60 @@
-# B - Short Sort
+# Aleksa and Stack
 
 ## 題目
-[題目連結點此](https://vjudge.net/contest/585165#problem/B)
+[題目連結點此]([https://vjudge.net/contest/585165#problem/B](https://vjudge.net/contest/585165#problem/C))
 
 ## 題目意思
-有 `a` `b` `c`三張牌<br>
-#### 只能用以下方法交換牌:
-`選兩張牌，交換位置`<br>
-問:輸入abc (三個數隨機排列)<br>
-能否只用一次就把牌換成abc
 
-Ex:<br>
-cba ==>yes
+要求一串數列(n個，且`遞增`) <br>
+且在`a2以後的數字*3` `*3`不得被前兩數的和`整除`<br><br>
+
+ex: <br>
+* `n=4` 1 . 2 . 5 . 6 ==> (O)   ``3*5 % (1+2) != 0;`` 且 ``6*3 % (2+5) != 0;``
+* `n=4` 1 . 2 . 3 . 4 ==> (X)   ``3*3 % (1+2) == 0``
+
+
 ## 解題
 
- <strong>因為只有三種(a、b、c) 在排列
+### 最直接暴力解==>找一個數列符合條件:
 
-能得知總共只有3!種排法</strong>
+>1 . 3 . 5 . 7 . 9........n <br>
 
->
->分別為:<br>
->*   `abc` `acb` <br>
->*   `bac` `bca`<br>
->*   `cab` `cba`<br>
-
-所以將所有的樣本進行分析，得: <br>
-
-1.  abc acb bac cba `能符合`<br>
-
-1.  bac cab `不行`<br>
-
-* 故直接用字串分析是否符合 <br><br>
-EX:   <br>
-if (string) a== "acb"           ==>print:Yes <br>
-else (string) a=="cab"          ==>print:No  <br>
 
 
 [完整code請點此](https://github.com/archue001/CPEB1005/blob/main/B%20-%20Short%20Sort.cpp) <br>
 
 
 
-![](https://github.com/archue001/CPEB1005/blob/main/1499593276-2126423918_n.jpg)
+
 <br>
-```cpp
 
-#include<iostream>
-#include<stdio.h>// 沒什麼路用
+```  cpp
+    #include<iostream>
 
-// 2023 10  5  11:00
 
-using namespace std ;
+    using namespace std ;
 
-int main (){
 
-int n;// author : dasabi    
-cin>> n; 
-string a;
+    int main ()  {
 
-while (n--)// while這裡不會真的要去打屁股
-{
-    
+    int t=0,n=0;
+    int k=1;
+
+
+    cin>>t;
+    while (t--)
+    {
+        cin>>n;
+        for(int i=0;i<n;i++){
+            cout<<k<<" ";
+            k=k+2;
+        }
         
-cin>> a;
-
-// 3種字母排列 ，共3!種排法(總計6種排法)  整理如下( /oAo / )
-
-/*
-abc   ==> yes 
-acb   ==> yes
-bac   ==> yes
-bca   ==> no
-cab   ==> no
-cba   ==> yes
-*/
- 
-
-// 當然 你有本事能和在一個if 也行 ，這樣主要是方便閱讀
+    }
+    cout<< endl;
+    return 0;
 
 
-if(a=="abc"){// abc 
-cout << "yes"<<endl;
-}
-else if(a=="acb"){//acb
-cout<<"yes"<<endl;
-}
-else if(a=="bac"){//bac
-    cout<<"yes"<<endl;
-}
-else if(a=="cba"){//cba
-    cout<<"yes"<<endl;
-}
+
+    }
 ```
