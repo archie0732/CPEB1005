@@ -43,6 +43,7 @@ else (string) a=="cab"          ==>print:No  <br>
 ![](https://github.com/archue001/CPEB1005/blob/main/1499593276-2126423918_n.jpg)
 <br>
 ```
+
 #include<iostream>
 #include<stdio.h>// 沒什麼路用
 
@@ -89,6 +90,7 @@ else if(a=="bac"){//bac
 else if(a=="cba"){//cba
     cout<<"yes"<<endl;
 }
+
 ``` //cpp
 
 
