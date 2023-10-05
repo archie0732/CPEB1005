@@ -14,7 +14,7 @@
 
 ### 第D題:
 
-* [點我進入](https://github.com/archue001/CPEB1005/blob/B--Short-Sort/README.md)
+* [點我進入](https://github.com/archue001/CPEB1005/blob/D---Good-Kid/README.md)
 
 ### 第E題:
 
