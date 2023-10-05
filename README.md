@@ -14,9 +14,9 @@ Ex:<br>
 cba ==>yes
 ## 解題
 
- <strong>因為只有三種(a、b、c) 在排列</strong>
+ <strong>因為只有三種(a、b、c) 在排列
 
-### 總共`只有3!`種樣式 
+能得知總共只有3!種排法</strong>
 
 分別為:<br>
 *   `abc` `acb` <br>
