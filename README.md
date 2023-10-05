@@ -85,7 +85,8 @@ else if(a=="bac"){//bac
 }
 else if(a=="cba"){//cba
     cout<<"yes"<<endl;
-} //cpp ```
+} //cpp
+` ``
 
 
 
