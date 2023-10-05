@@ -35,5 +35,5 @@ else (string) a=="cab"          ==>print:No<br>
 
 
 [完整code請點此](https://github.com/archue001/CPEB1005/blob/main/B%20-%20Short%20Sort.cpp) <br>
-![]
+![ ]
 (https://github.com/archue001/CPEB1005/blob/main/1499593276-2126423918_n.jpg)
