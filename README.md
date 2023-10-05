@@ -1,5 +1,4 @@
-# CPEB1005
-#B - Short Sort
+# B - Short Sort
 
 
 因為只有三種(a、b、c) 在排列
@@ -20,3 +19,6 @@ bac cab 不行
 EX:
 if (string) a== "acb" ==>Yes
 else (string) a=="cab"==>No
+
+
+完整請見B - Short Sort.cpp
