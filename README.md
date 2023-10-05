@@ -87,6 +87,8 @@ else if(a=="cba"){//cba
     cout<<"yes"<<endl;
 } //cpp
 ` ``
+以上
+
 
 
 
