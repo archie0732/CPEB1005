@@ -24,4 +24,9 @@
 
 ### 第F題:
 
-* [點我進入](https://github.com/archue001/CPEB1005/blob/B--Short-Sort/README.md)
+* [點我進入](https://github.com/archue001/CPEB1005/blob/B--Short-Sort/README.md)  `WA版`
+* [點我進入](https://github.com/archue001/CPEB1005/blob/B--Short-Sort/README.md)  `AC版`
+
+
+
+![](https://github.com/archie0732/CPEB1005/blob/%E5%9C%96%E7%89%87/22092023064533C-0-lp.jpg)
