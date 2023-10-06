@@ -27,9 +27,9 @@ P.S: 如果沒有可能，傳-1
 
 [完整code請點此](https://youtu.be/dQw4w9WgXcQ?si=7WmMcVDKD1InGcJu)  <br>
 
-輪轉位移 <br>
+ <br>
 
-![](https://github.com/archie0732/CPEB1005/blob/%E5%9C%96%E7%89%87/82d8d3c69d269cd6588e8172a43734ca.jpeg)
+![](https://github.com/archie0732/CPEB1005/blob/%E5%9C%96%E7%89%87/q5ianqObk6KZrKQ.jpg)
 
 
 <br>
