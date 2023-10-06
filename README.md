@@ -1,4 +1,4 @@
-# F - Rigged! (AC version)
+# F - Rigged! AC version
 
 
 
