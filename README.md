@@ -27,7 +27,9 @@ P.S: 如果沒有可能，傳-1
 
 [完整code請點此](https://github.com/archie0732/CPEB1005/blob/C---Aleksa-and-Stack/cpeF.cpp)  <br>
 
-![](https://github.com/archue001/CPEB1005/blob/%E5%9C%96%E7%89%87/386320732_310791081710296_4375879779438103400_n.jpg)
+輪轉位移 <br>
+
+![](https://github.com/archie0732/CPEB1005/blob/%E5%9C%96%E7%89%87/82d8d3c69d269cd6588e8172a43734ca.jpeg)
 
 
 <br>
