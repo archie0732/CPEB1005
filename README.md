@@ -25,7 +25,7 @@
 ### 第F題:
 
 * [點我進入](https://github.com/archie0732/CPEB1005/blob/F---Rigged!/README.md)  `WA版`
-* [](https://github.com/archie0732/CPEB1005/blob/f-%EF%BC%88AC-version/README.md)
+* [aaaa](https://github.com/archie0732/CPEB1005/blob/f-%EF%BC%88AC-version/README.md)
 
 
 
