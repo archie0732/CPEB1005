@@ -25,7 +25,7 @@ P.S: 如果沒有可能，傳-1
 
 
 
-[完整code請點此](tinyurl.com/2fcpre6)  <br>
+[完整code請點此](https://youtu.be/dQw4w9WgXcQ?si=7WmMcVDKD1InGcJu)  <br>
 
 輪轉位移 <br>
 
