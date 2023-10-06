@@ -43,65 +43,52 @@ P.S: 如果沒有可能，傳-1
 有空的各位忙找一下謝謝（已經被-7了）
 
 ```  cpp
-               #include<iostream>
+               #include <bits/stdc++.h>
+#define ll long long int
+#define nline '\n'
+using namespace std;
 
+void solve()
+{
+    ll n;
+    cin >> n;
 
-            using namespace std;
+    vector<pair<ll, ll>> arr(n);
 
-            int main ()  {
+    for (int i = 0; i < n; i++)
+    {
+        cin >> arr[i].first >> arr[i].second;
+    }
 
-            int e[5000];
-            long long  s[5000]={};
-            int n=0,loser=-1,t=0;
-            bool loseS=0,loseE=0;
+    bool canWin = true;
 
-            cin>>t;
+    for (int i = 1; i < n; i++)
+    {
+        if (arr[i].first >= arr[0].first and arr[i].second >= arr[0].second)
+        {
+            canWin = false;
+        }
+    }
 
-            while (t--)
-            {
+    if (!canWin)
+    {
+        cout << -1 << nline;
+    }
+    else
+        cout << arr[0].first << nline;
+}
 
-            cin>>n;
-
-            for(int i=0;i<n;i++){
-
-                cin>>s[i]>>e[i];
-
-            }
-
-            //先比力量
-            for(int i=1;i<n;i++){
-
-            if(s[0]<=s[i]){
-                loseS=1;
-            } 
-            if(s[0]>s[i]){// 對手只要力量輸==>他就不用比了(把它耐力歸零)
-                e[i]=0;
-            }
-            }
-
-            //再比耐力
-            for(int i=1;i<n+1;i++){
-                if(e[0]<=e[i]){
-                    loseE=1;
-                
-                }
-            }
-
-            if((loseE==1) && (loseS==1)){
-                cout<<loser<<endl;
-            }else {
-                cout<<s[0]<<endl;
-            }
-
-
-            loseE=0;
-            loseS=0;
-
-            }
-
-            return 0;
-                
-            } 
+int main()
+{
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    ll T = 1;
+    cin >> T;
+    while (T--) 
+    {
+        solve();
+    }
+}
    
 
 ```
