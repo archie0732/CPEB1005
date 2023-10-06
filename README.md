@@ -1,6 +1,6 @@
-# F - Rigged! （WA版，AC版請見另一個）
+# F - Rigged! （以更正)
 
-<strong> <em> [AC版本](https://github.com/archie0732/CPEB1005/blob/C---Aleksa-and-Stack/cpeF2.cpp)      </strong></em>
+      
 
 ## 題目
 [題目連結點此](https://vjudge.net/contest/585165#problem/F)
@@ -34,16 +34,14 @@ P.S: 如果沒有可能，傳-1
 
 <br>
 
-## 目前仍卡在WA2 上 ，已放棄
 
-請參考：
-[ac版本](https://github.com/archie0732/CPEB1005/blob/C---Aleksa-and-Stack/cpeF2.cpp)
+
 
 <br>
-有空的各位忙找一下謝謝（已經被-7了）
+
 
 ```  cpp
-               #include <bits/stdc++.h>
+#include <bits/stdc++.h>
 #define ll long long int
 #define nline '\n'
 using namespace std;
