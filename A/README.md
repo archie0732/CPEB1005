@@ -38,51 +38,40 @@ else (string) a=="cab"          ==>print:No  <br>
 ![](https://github.com/archue001/CPEB1005/blob/main/1499593276-2126423918_n.jpg)
 <br>
 ```cpp
-
 #include<iostream>
-#include<stdio.h>// 沒什麼路用
 
-// 2023 10  5  11:00
 
 using namespace std ;
 
+
+
+
 int main (){
-
-int n;// author : dasabi    
-cin>> n; 
-string a;
-
-while (n--)// while這裡不會真的要去打屁股
-{
     
-        
-cin>> a;
+int n =0,t=0;
+int time=0;
+cin>>time;
 
-// 3種字母排列 ，共3!種排法(總計6種排法)  整理如下( /oAo / )
+while (time--)
+{
 
-/*
-abc   ==> yes 
-acb   ==> yes
-bac   ==> yes
-bca   ==> no
-cab   ==> no
-cba   ==> yes
-*/
- 
-
-// 當然 你有本事能和在一個if 也行 ，這樣主要是方便閱讀
-
-
-if(a=="abc"){// abc 
-cout << "yes"<<endl;
+cin>> n>>t;
+int k[1000]={};
+bool f=false;
+for(int i=0;i<n;i++){
+    cin>>k[i];
+    if(k[i]==t){
+        f=1;
+    }
 }
-else if(a=="acb"){//acb
-cout<<"yes"<<endl;
+if (f==1){
+    cout<<"Yes"<<endl;
+
 }
-else if(a=="bac"){//bac
-    cout<<"yes"<<endl;
+else {
+    cout<<"No"<<endl;
 }
-else if(a=="cba"){//cba
-    cout<<"yes"<<endl;
+}
+return 0;
 }
 ```
