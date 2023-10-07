@@ -3,10 +3,11 @@
 作者：神里綾華的狗          
 
 #### 10/6  更新 第F題(現在直接點進去就行了)
+### 10/7   更新 第A題（僅有程式碼）
 
 ### 第A題:
 
-* [點我進入](https://github.com/archie0732/CPEB1005/blob/main/A/README.md)  `尚未完成勿點入`
+* [點我進入](https://github.com/archie0732/CPEB1005/blob/main/A/README.md)  `已修正，僅含程式碼`
 
 正在找遺失的的程式碼.....QWQ
 
