@@ -6,6 +6,8 @@
 
 ### 第A題:
 
+[點我進入](https://github.com/archie0732/CPEB1005/blob/main/A/README.md)  `尚未完成勿點入`
+
 正在找遺失的的程式碼.....QWQ
 
 ### 第B題:
