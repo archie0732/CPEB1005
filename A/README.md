@@ -6,11 +6,15 @@
 ## 題目意思
 
 <br>
+too ez 略
 <br>
 
 
 ## 解題
 
+ <br>
+ too ez 略 <br>
+ <strong><em>絕對不是我在偷懶</strong></em>
  <br>
  <br>
 
@@ -18,7 +22,7 @@
 
 
 
-![](https://github.com/archue001/CPEB1005/blob/main/1499593276-2126423918_n.jpg)
+![](https://github.com/archie0732/CPEB1005/blob/%E5%9C%96%E7%89%87/370761512_2014447788895891_3284446367492785423_n.jpg)
 <br>
 ```cpp
 #include<iostream>
