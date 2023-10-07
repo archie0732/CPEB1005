@@ -9,27 +9,8 @@
 
 ## 解題
 
- <strong>因為只有三種(a、b、c) 在排列
-
-能得知總共只有3!種排法</strong>
-
->
->分別為:<br>
->*   `abc` `acb` <br>
->*   `bac` `bca`<br>
->*   `cab` `cba`<br>
-
-所以將所有的樣本進行分析，得: <br>
-
-1.  abc acb bac cba `能符合`<br>
-
-1.  bac cab `不行`<br>
-
-* 故直接用字串分析是否符合 <br><br>
-EX:   <br>
-if (string) a== "acb"           ==>print:Yes <br>
-else (string) a=="cab"          ==>print:No  <br>
-
+ <br>
+ <br>
 
 [完整code請點此](https://github.com/archue001/CPEB1005/blob/main/B%20-%20Short%20Sort.cpp) <br>
 
