@@ -12,7 +12,7 @@
  <br>
  <br>
 
-[完整code請點此](https://github.com/archue001/CPEB1005/blob/main/B%20-%20Short%20Sort.cpp) <br>
+[完整code請點此](https://github.com/archie0732/CPEB1005/blob/C---Aleksa-and-Stack/cpeA.cpp) <br>
 
 
 
