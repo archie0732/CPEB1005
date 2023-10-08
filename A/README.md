@@ -27,7 +27,7 @@ ANS=No
 
 
 
-![](https://github.com/archie0732/CPEB1005/blob/%E5%9C%96%E7%89%87/370761512_2014447788895891_3284446367492785423_n.jpg)
+![](https://github.com/archie0732/CPEB1005/blob/%E5%9C%96%E7%89%87/313420554_160285600025427_7959677222235469340_n.jpg)
 <br>
 ```cpp
 #include<iostream>
