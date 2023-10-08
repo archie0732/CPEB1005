@@ -7,22 +7,20 @@
 
 <br>
 給一數列L，且給一數(a)，求a是否為這數列L中最常見的數字。
-<br>
-EX: <br>
-> * L=1 . 1 .2 .3 ; a=1 <br>
-> ANS: yes
 
-> * L=6 . 3 .6 .5 ; a=8 <br>
->   ANS: no
-<br>
+* L= 1 . 6 .3 . 7 .1;`a=1`
+ANS=Yes
+* L=2 .3 .5 .7  ;`a=9`
+ANS=No
 
 
 ## 解題
 
- <br>
- too ez 略 <br>  <br>
- <strong><em>絕對不是我在偷懶</strong></em>
- <br>
+> 1.把數列丟到陣列裡  <br>
+> 2.去把陣列裡的直去跟a比是否相同 <br>
+> 3.happy end  <br>
+ 
+ 
  <br>
 
 [完整code請點此](https://github.com/archie0732/CPEB1005/blob/C---Aleksa-and-Stack/cpeA.cpp) <br>
