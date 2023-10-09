@@ -1,7 +1,7 @@
 # C-Aleksa and Stack
 
 ## 題目
-[題目連結點此]([https://vjudge.net/contest/585165#problem/B](https://vjudge.net/contest/585165#problem/C)
+[題目連結點此](https://vjudge.net/contest/585165#problem/C)
 
 ## 題目意思
 
